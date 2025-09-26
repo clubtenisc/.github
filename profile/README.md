@@ -27,12 +27,12 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 ## 3. Tecnologías Propuestas
 
 - **Frontend Móvil**: React Native (para iOS y Android)
-- **Backend**: Node.js + Express + Base de datos PostgreSQL
+- **Backend**: Java + Base de datos PostgreSQL
 - **Panel Admin**: React + TypeScript
 - **Autenticación**: JWT + QR codes
-- **Pasarela de Pago**: Integración con Mercado Pago o similar
+- **Pasarela de Pago**: Integración con QR
 - **Notificaciones**: Firebase Cloud Messaging (FCM)
-- **Hosting**: AWS o Google Cloud
+- **Hosting**: Servidor local o en la nube.
 
 ---
 
@@ -45,7 +45,7 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 | **Desarrollo Módulos Avanzados** | 6 | Tienda, torneos, encuestas, control de ingresos |
 | **Integración y Pruebas** | 4 | Pruebas funcionales, de usabilidad y seguridad |
 | **Implementación y Lanzamiento** | 2 | Publicación en stores, capacitación, documentación |
-| **Total** | **20 semanas** (~5 meses) | |
+| **Total** | **20 semanas** (5 meses) | |
 
 ---
 
@@ -53,25 +53,24 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 
 | Concepto | Costo Estimado (USD) |
 |----------|-----------------------|
-| **Desarrollo (equipo de 3 personas)** | $45,000 |
-| Diseñador UX/UI | $4,000 |
-| Gestor de Proyecto | $5,000 |
-| **Subtotal Mano de Obra** | **$54,000** |
-| Licencias y Herramientas | $2,000 |
-| Servidores (primer año) | $3,000 |
-| Contingencia (10%) | $5,900 |
-| **Total Estimado** | **$64,900** |
+| Diseño UX/UI | $ 500 |
+| Gestion de Proyecto | $1000 |
+| Desarrollo MVP | $700 |
+| Integracion con pasarla | $1000 |
+| Desarrollo final | $1500 |
+| Implementeacion | $1000 |
+| **Total Estimado** | **$6,200** |
 
 ---
 
 ## 6. Opciones de Pago
 
-- **Pago único**: $64,900 (5% de descuento: $61,655)
+- **Pago único**: $6,200 (5% de descuento: $310)
 - **Pago por fases**:
-  - Fase 1 (Análisis): $6,000
-  - Fase 2 (Desarrollo básico): $20,000
-  - Fase 3 (Desarrollo avanzado): $20,000
-  - Fase 4 (Lanzamiento): $18,900
+  - Fase 1 (Análisis): $0,000
+  - Fase 2 (Desarrollo básico): $0,000
+  - Fase 3 (Desarrollo avanzado): $0,000
+  - Fase 4 (Lanzamiento): $00
 
 ---
 
@@ -85,6 +84,6 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 
 ## 8. Conclusiones
 
-La aplicación propuesta no solo modernizará la gestión del club, sino que también mejorará la satisfacción de los socios y optimizará los ingresos mediante la digitalización de servicios. El tiempo de desarrollo estimado es de **5 meses** con un costo total de **$64,900 USD**.
+La aplicación propuesta no solo modernizará la gestión del club, sino que también mejorará la satisfacción de los socios y optimizará los ingresos mediante la digitalización de servicios. El tiempo de desarrollo estimado es de **5 meses** con un costo total de **$00,900 USD**.
 
 ¿Le interesa que ajustemos alguna parte de la propuesta o que preparemos una presentación ejecutiva para su equipo directivo?
