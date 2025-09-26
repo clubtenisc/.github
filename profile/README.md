@@ -2,88 +2,88 @@
 
 ## 1. Resumen Ejecutivo
 
-Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS y Android, junto con un **panel web administrativo**, que centralice todas las operaciones del club de tenis descritas en el documento. La solución mejorará la experiencia del socio, optimizará la gestión interna y generará nuevos flujos de ingresos mediante la venta online y la automatización de procesos.
+Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS y Android, junto con un **panel web administrativo** centralizado, que gestione todas las operaciones del club de tenis. Esta solución permitirá optimizar la experiencia de los socios, mejorar la gestión interna y generar nuevos flujos de ingresos mediante la venta online y la automatización de procesos.
 
 ---
 
 ## 2. Alcance del Proyecto
 
-### Módulos Incluidos:
+### Módulos Incluidos
 
-| Módulo | Descripción |
-|--------|-------------|
-| **Reservas** | Canchas, salas de masajes, peluquería, salón de eventos, churrasqueras. |
-| **Eventos** | Calendario, información, compra de entradas. |
-| **Tienda Online** | Catálogo, carrito, promociones, pasarela de pago. |
-| **Torneos** | Inscripciones, pagos, resultados, tablas de posiciones. |
-| **Encuestas y Votaciones** | Sistema seguro con autenticación. |
-| **Formación** | Inscripción y pago de escuelas deportivas. |
-| **Gestión de Membresías** | Perfil, pagos, familiares, QR de ingreso. |
-| **Control de Ingresos** | Registro de entradas con QR e invitaciones. |
-| **Integración con Sistemas Internos** | Contable y financiero. |
+| Módulo                     | Descripción                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| **Reservas**               | Canchas, salas de masajes, peluquería, salón de eventos, churrasqueras.     |
+| **Eventos**                | Calendario, información, compra de entradas.                                |
+| **Tienda Online**          | Catálogo, carrito, promociones, pasarela de pago.                           |
+| **Torneos**                | Inscripciones, pagos, resultados, tablas de posiciones.                     |
+| **Encuestas y Votaciones** | Sistema seguro con autenticación.                                           |
+| **Formación**              | Inscripción y pago de escuelas deportivas.                                  |
+| **Gestión de Membresías**  | Perfil, pagos, familiares, QR de ingreso.                                   |
+| **Control de Ingresos**    | Registro de entradas con QR e invitaciones.                                 |
+| **Integración Interna**    | Integración con sistemas contables y financieros.                           |
 
 ---
 
 ## 3. Tecnologías Propuestas
 
-- **Frontend Móvil**: React Native (para iOS y Android)
-- **Backend**: Java + Base de datos PostgreSQL
-- **Panel Admin**: React + TypeScript
-- **Autenticación**: JWT + QR codes
-- **Pasarela de Pago**: Integración con QR
-- **Notificaciones**: Firebase Cloud Messaging (FCM)
-- **Hosting**: Servidor local o en la nube.
+- **Frontend Móvil:** React Native (iOS y Android)
+- **Backend:** Java + PostgreSQL
+- **Panel Admin:** React + TypeScript
+- **Autenticación:** JWT + Códigos QR
+- **Pasarela de Pago:** Integración con QR
+- **Notificaciones:** Firebase Cloud Messaging (FCM)
+- **Hosting:** Servidor local o nube
 
 ---
 
 ## 4. Cronograma Estimado
 
-| Fase | Duración (semanas) | Entregables |
-|------|---------------------|-------------|
-| **Análisis y Planificación** | 2 | Especificación técnica, diseño de BD, prototipos UX/UI |
-| **Desarrollo Módulos Básicos** | 6 | Login, perfil, reservas, membresías |
-| **Desarrollo Módulos Avanzados** | 6 | Tienda, torneos, encuestas, control de ingresos |
-| **Integración y Pruebas** | 4 | Pruebas funcionales, de usabilidad y seguridad |
-| **Implementación y Lanzamiento** | 2 | Publicación en stores, capacitación, documentación |
-| **Total** | **20 semanas** (5 meses) | |
+| Fase                        | Duración (semanas) | Entregables                                        |
+|-----------------------------|--------------------|----------------------------------------------------|
+| **Análisis y Planificación**| 2                  | Especificaciones técnicas, prototipos UX/UI        |
+| **Desarrollo Básico**       | 6                  | Login, perfil, reservas, membresías                |
+| **Desarrollo Avanzado**     | 6                  | Tienda, torneos, encuestas, control de ingresos    |
+| **Integración y Pruebas**   | 4                  | Pruebas funcionales, de usabilidad y seguridad     |
+| **Implementación y Lanzamiento** | 2            | Publicación en stores, capacitación, documentación |
+| **Total**                   | **20 semanas**     |                                                    |
 
 ---
 
 ## 5. Estimación de Costos
 
-| Concepto | Costo Estimado (USD) |
-|----------|-----------------------|
-| Diseño UX/UI | $ 500 |
-| Gestion de Proyecto | $1000 |
-| Desarrollo MVP | $700 |
-| Integracion con pasarla | $1000 |
-| Desarrollo final | $1500 |
-| Implementeacion | $1000 |
-| **Total Estimado** | **$6,200** |
+| Concepto                         | Costo Estimado (USD) |
+|----------------------------------|----------------------|
+| Diseño UX/UI                     | $ 800                |
+| Gestión de Proyecto              | $ 1,200              |
+| Desarrollo MVP                   | $ 1,000              |
+| Integración con pasarela (QR)    | $ 2,000              |
+| Desarrollo Final                 | $ 2,000              |
+| Implementación y Capacitación    | $ 1,000              |
+| **Total Estimado**               | **$8,000**           |
 
 ---
 
 ## 6. Opciones de Pago
 
-- **Pago único**: $6,200 (5% de descuento: $310)
-- **Pago por fases**:
-  - Fase 1 (Análisis): $0,000
-  - Fase 2 (Desarrollo básico): $0,000
-  - Fase 3 (Desarrollo avanzado): $0,000
-  - Fase 4 (Lanzamiento): $00
+- **Pago único:** $8,000 (Descuento del 5% por pago anticipado: $7,600)
+- **Pago por fases:** 
+  - Fase 1 (Análisis y prototipo): $1,000
+  - Fase 2 (Desarrollo básico): $2,000
+  - Fase 3 (Desarrollo avanzado + integración QR): $3,000
+  - Fase 4 (Implementación y soporte inicial): $2,000
 
 ---
 
 ## 7. Mantenimiento y Soporte Post-Lanzamiento
 
-- **Soporte técnico mensual**: $300/mes (incluye actualizaciones menores y monitoreo)
-- **Hosting y servicios**: $250/mes (servidores, base de datos, notificaciones)
-- **Actualizaciones mayores**: Cotización según requerimientos
+- **Soporte técnico mensual:** $300 (incluye actualizaciones menores y monitoreo)
+- **Hosting y servicios:** $250/mes (servidores, base de datos, notificaciones)
+- **Actualizaciones mayores:** Cotización según requerimientos
 
 ---
 
 ## 8. Conclusiones
 
-La aplicación propuesta no solo modernizará la gestión del club, sino que también mejorará la satisfacción de los socios y optimizará los ingresos mediante la digitalización de servicios. El tiempo de desarrollo estimado es de **5 meses** con un costo total de **$00,900 USD**.
+Esta solución digital transformará la gestión y operación del club, mejorando la satisfacción de los socios y optimizando los ingresos mediante la digitalización de servicios. El desarrollo toma **5 meses** y el costo total es de **$8,000 USD**.
 
-¿Le interesa que ajustemos alguna parte de la propuesta o que preparemos una presentación ejecutiva para su equipo directivo?
+¿Desea ajustar algún punto de la propuesta, o prefiere que preparemos una presentación ejecutiva para su directorio?
