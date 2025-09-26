@@ -19,7 +19,7 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 | **Eventos**                | Calendario, información, compra de entradas.                                |
 | **Tienda Online**          | Catálogo, carrito, promociones, pasarela de pago.                           |
 | **Torneos**                | Inscripciones, pagos, resultados, tablas de posiciones.                     |
-| **Encuestas y Votaciones** | Sistema seguro con autenticación.                                           |
+| **Encuestas y Votaciones** | Comprende encuestas para decisiones del Club como por ej. mejoras en infraestructura, medición de satisfacción y votación para elecciones de directiva. Debe incluir sistema de autenticación para garantizar transparencia|
 | **Formación**              | Inscripción y pago de escuelas deportivas.                                  |
 | **Gestión de Membresías**  | Perfil, pagos, histórico, afiliación familiar bajo la misma cuenta, QR de ingreso.                                   |
 | **Control de Ingresos**    | Registro de entradas con QR e invitaciones.                                 |
