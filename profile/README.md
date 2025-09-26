@@ -39,6 +39,9 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 
 ---
 
+<img width="587" height="743" alt="image" src="https://github.com/user-attachments/assets/9ee10add-09b4-4244-a140-a86d057f1a16" />
+
+
 ## 4. Cronograma Estimado
 
 | Fase                        | Duración (semanas) | Entregables                                        |
