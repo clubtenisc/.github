@@ -1,5 +1,8 @@
 # Propuesta de Desarrollo: Aplicación Móvil para Club de Tenis
 
+<img width="428" height="439" alt="image" src="https://github.com/user-attachments/assets/1f332ce9-9ea1-4107-bee9-73b4e955af48" />
+
+
 ## 1. Resumen Ejecutivo
 
 Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS y Android, junto con un **panel web administrativo** centralizado, que gestione todas las operaciones del club de tenis. Esta solución permitirá optimizar la experiencia de los socios, mejorar la gestión interna y generar nuevos flujos de ingresos mediante la venta online y la automatización de procesos.
