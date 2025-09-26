@@ -105,7 +105,10 @@ Esta solución digital transformará la gestión y operación del club, mejorand
 
 [tenis.pdf](https://github.com/user-attachments/files/22569119/tenis.pdf)
 
+-------   
 
-**Servisofts Srl**
-[+59178505744](https://wa.me/+59178505744)
+**Servisofts Srl**   
+[https://servisofts.com](https://servisofts.com)   
+[+59178505744](https://wa.me/+59178505744)   
+servisofts.srl@gmail.com   
 
