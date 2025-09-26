@@ -105,6 +105,10 @@ Esta solución digital transformará la gestión y operación del club, mejorand
 
 [tenis.pdf](https://github.com/user-attachments/files/22569119/tenis.pdf)
 
+### 2. Figma
+
+[Link a figma](https://www.figma.com/design/H69cws07ziCxVjYEf5SxMF/Club-de-Tenis-Santa-Cruz?node-id=0-1&p=f&t=4TLpQBL845AiRuPq-0)
+
 -------   
 
 **Servisofts Srl**   
