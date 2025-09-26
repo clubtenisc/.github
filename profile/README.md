@@ -76,8 +76,7 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 
 ## 7. Mantenimiento y Soporte Post-Lanzamiento
 
-- **Soporte técnico mensual:** $300 (incluye actualizaciones menores y monitoreo)
-- **Hosting y servicios:** $250/mes (servidores, base de datos, notificaciones)
+- **Soporte técnico mensual:** $400 (incluye servidores y monitoreo)
 - **Actualizaciones mayores:** Cotización según requerimientos
 
 ---
