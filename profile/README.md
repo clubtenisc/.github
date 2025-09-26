@@ -94,4 +94,17 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 
 Esta solución digital transformará la gestión y operación del club, mejorando la satisfacción de los socios y optimizando los ingresos mediante la digitalización de servicios. El desarrollo toma **5 meses** y el costo total es de **$8,000 USD**.
 
-¿Desea ajustar algún punto de la propuesta, o prefiere que preparemos una presentación ejecutiva para su directorio?
+## 9. Observaciones
+
+- ⚠️ En el documento del `Anexo 1` se solicita `Debe integrarse con el sistema contable y financiero del club.`, el costo puede subir segun la complejidad de la integracion con el sistema.
+- ⚠️ Se recomienda una reunion previa para analizar la integracion con el sistema contable del club de tenis.
+
+## 10. Anexos
+
+### 1. Documento de solicitud
+
+[tenis.pdf](https://github.com/user-attachments/files/22569119/tenis.pdf)
+
+
+
+
