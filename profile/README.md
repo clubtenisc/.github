@@ -96,8 +96,8 @@ Esta solución digital transformará la gestión y operación del club, mejorand
 
 ## 9. Observaciones
 
-- ⚠️ En el documento del `Anexo 1` se solicita `Debe integrarse con el sistema contable y financiero del club.`, el costo puede subir segun la complejidad de la integracion con el sistema.
-- ⚠️ Se recomienda una reunion previa para analizar la integracion con el sistema contable del club de tenis.
+- ⚠️ En el documento del `Anexo 1` se solicita `Debe integrarse con el sistema contable y financiero del club.`, el costo puede subir según la complejidad de la integración con el sistema.
+- ⚠️ Se recomienda una reunión previa para analizar la integración con el sistema contable del club de tenis.
 
 ## 10. Anexos
 
