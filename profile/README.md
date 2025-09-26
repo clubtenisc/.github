@@ -85,6 +85,7 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 ## 7. Mantenimiento y Soporte Post-Lanzamiento
 
 - **Soporte técnico mensual:** $400 (incluye servidores y monitoreo)
+- **Soporte local:** $0 (El sistema es llevado a los servidores propios del club de tenis y sera administrado por el equipo de TI del club) 
 - **Actualizaciones mayores:** Cotización según requerimientos
 
 ---
