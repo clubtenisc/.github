@@ -80,6 +80,8 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 
 ---
 
+<img width="1015" height="746" alt="image" src="https://github.com/user-attachments/assets/7469fa45-b741-4af2-9de1-795e3ffd9730" />
+
 ## 7. Mantenimiento y Soporte Post-Lanzamiento
 
 - **Soporte técnico mensual:** $400 (incluye servidores y monitoreo)
