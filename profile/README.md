@@ -21,7 +21,7 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 | **Torneos**                | Inscripciones, pagos, resultados, tablas de posiciones.                     |
 | **Encuestas y Votaciones** | Sistema seguro con autenticación.                                           |
 | **Formación**              | Inscripción y pago de escuelas deportivas.                                  |
-| **Gestión de Membresías**  | Perfil, pagos, familiares, QR de ingreso.                                   |
+| **Gestión de Membresías**  | Perfil, pagos, histórico, afiliación familiar bajo la misma cuenta, QR de ingreso.                                   |
 | **Control de Ingresos**    | Registro de entradas con QR e invitaciones.                                 |
 | **Integración Interna**    | Integración con sistemas contables y financieros.                           |
 
