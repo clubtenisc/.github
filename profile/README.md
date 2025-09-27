@@ -15,7 +15,9 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 
 ### Reservas
 - Reserva de canchas, salas de masajes, peluquería, salón de eventos, salas de juegos y churrasqueras.
-- ⚠️ ss
+- ⚠️ cualquier persona puede realizar reservas?
+- ⚠️ cualquier persona puede registrarse a la APP?
+- ⚠️ la app sera solo para socios?
 
 ### Eventos y actividades
 - Calendario e informes de eventos deportivos y sociales
@@ -23,26 +25,39 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 ### Compra de entradas
 - Compra de entradas para torneos, exhibiciones y eventos sociales. 
 
+
 ### Tienda online
 - Carrito de compra de ropa deportiva, accesorios, raquetas, etc.  Debe incluir catálogo de productos y promociones.
+
 
 ### Torneos
 - Permitir gestionar inscripciones y el pago correspondiente. Debe incluir seguimiento de resultados, tabla de posiciones y estadísticas de jugadores.
 
+
 ### Encuestas y votaciones
 - Comprende encuestas para decisiones del Club como por ej. mejoras en infraestructura, medición de satisfacción y votación para elecciones de directiva. Debe incluir sistema de autenticación para garantizar transparencia.
+- ⚠️ quien se encarga de crear las encuestas?
+- ⚠️ ejemplo de encuestas?
+
 
 ### Formación
 - Gestionar inscripciones y pagos a escuela deportiva y otras actividades relacionadas.
+- ⚠️ cualquier persona se puede inscribir?
+
 
 ### Gestión de membresías
 - Permitir a los socios gestionar su perfil, pagos, beneficios y renovaciones. Debe incluir visualización de historial de pagos y proveer recordatorios automáticos de vencimiento. Debe permitir visualizar la  vinculación de miembros familiares bajo una misma cuenta, y visualizar el código QR para ingreso del socio y sus familiares.
+- ⚠️ explicar mejor el tema del pago de familiares, se entiende que es un grupo de personas para pago recurrentes?
+
 
 ### Control de ingresos
 - Control de ingresos en portería tanto de socios como de invitados para mantener un registro seguro de entradas. Debe permitir a los socios generar invitaciones para terceros vinculadas a eventos,  generando un código QR único por cada invitación.
 
+
 ### Integración con sistema interno
 - Debe integrarse con el sistema contable y financiero del club.
+- ⚠️ Explicacion de tipo de integracion requerida por el sistema contable y financiero del club.
+
 
 
 
