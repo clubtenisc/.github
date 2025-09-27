@@ -101,7 +101,7 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 | Integración con pasarela (QR)    | $ 2,000              |
 | Desarrollo Final                 | $ 2,000              |
 | Implementación y Capacitación    | $ 1,000              |
-| **Total Estimado**               | **$8,000**           |
+| **Total Estimado**               | **⚠️$8,000**           |
 
 ---
 
