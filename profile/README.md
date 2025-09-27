@@ -15,6 +15,7 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 
 ### Reservas
 - Reserva de canchas, salas de masajes, peluquería, salón de eventos, salas de juegos y churrasqueras.
+- ⚠️ ss
 
 ### Eventos y actividades
 - Calendario e informes de eventos deportivos y sociales
