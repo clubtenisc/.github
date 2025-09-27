@@ -11,52 +11,65 @@ Se propone el desarrollo de una **aplicación móvil nativa integral** para iOS 
 
 ## 2. Alcance del Proyecto
 
-### Funcionalidades Incluidos
+### Funcionalidades Incluidas
 
 ### Reservas
-- Reserva de canchas, salas de masajes, peluquería, salón de eventos, salas de juegos y churrasqueras.
-- ⚠️ cualquier persona puede realizar reservas?
-- ⚠️ cualquier persona puede registrarse a la APP?
-- ⚠️ la app sera solo para socios?
+
+* Reserva de canchas, salas de masajes, peluquería, salón de eventos, salas de juegos y churrasqueras.
+* ⚠️ ¿Cualquier persona puede realizar reservas?
+* ⚠️ ¿Cualquier persona puede registrarse en la APP?
+* ⚠️ ¿La APP será solo para socios?
 
 ### Eventos y actividades
-- Calendario e informes de eventos deportivos y sociales
+
+* Calendario e informes de eventos deportivos y sociales.
 
 ### Compra de entradas
-- Compra de entradas para torneos, exhibiciones y eventos sociales. 
 
+* Compra de entradas para torneos, exhibiciones y eventos sociales.
+* ⚠️ ¿Cualquier persona puede realizar compras?
+* ⚠️ (Base de Datos) ¿La información de los eventos y entradas se cargará en el sistema Servisofts?
+* ⚠️ (Contabilidad) De ser así, ¿cómo obtendremos las cuentas contables a las que debe afectar el asiento contable?
 
 ### Tienda online
-- Carrito de compra de ropa deportiva, accesorios, raquetas, etc.  Debe incluir catálogo de productos y promociones.
 
+* Carrito de compras de ropa deportiva, accesorios, raquetas, etc. Debe incluir catálogo de productos y promociones.
+* ⚠️ (Base de Datos) ¿La información de los productos se cargará en el sistema Servisofts?
+* ⚠️ (Contabilidad) De ser así, ¿cómo obtendremos las cuentas contables a las que debe afectar el asiento contable?
+* ⚠️ ¿Cualquier persona puede realizar compras?
 
 ### Torneos
-- Permitir gestionar inscripciones y el pago correspondiente. Debe incluir seguimiento de resultados, tabla de posiciones y estadísticas de jugadores.
 
+* Permitir gestionar inscripciones y el pago correspondiente. Debe incluir seguimiento de resultados, tabla de posiciones y estadísticas de jugadores.
+* ⚠️ (Base de Datos) ¿La información de los torneos se cargará en el sistema Servisofts?
+* ⚠️ ¿Cualquier persona puede participar?
+* ⚠️ (Contabilidad) ¿Las inscripciones y pagos se contabilizarán?
 
 ### Encuestas y votaciones
-- Comprende encuestas para decisiones del Club como por ej. mejoras en infraestructura, medición de satisfacción y votación para elecciones de directiva. Debe incluir sistema de autenticación para garantizar transparencia.
-- ⚠️ quien se encarga de crear las encuestas?
-- ⚠️ ejemplo de encuestas?
 
+* Comprende encuestas para decisiones del club, como por ejemplo: mejoras en infraestructura, medición de satisfacción y votaciones para elecciones de la directiva. Debe incluir sistema de autenticación para garantizar transparencia.
+* ⚠️ ¿Quién se encargará de crear las encuestas?
+* ⚠️ ¿Ejemplo de encuestas?
 
 ### Formación
-- Gestionar inscripciones y pagos a escuela deportiva y otras actividades relacionadas.
-- ⚠️ cualquier persona se puede inscribir?
 
+* Gestionar inscripciones y pagos a la escuela deportiva y otras actividades relacionadas.
+* ⚠️ ¿Cualquier persona puede inscribirse?
+* ⚠️ (Contabilidad) ¿Las inscripciones y pagos se contabilizarán?
 
 ### Gestión de membresías
-- Permitir a los socios gestionar su perfil, pagos, beneficios y renovaciones. Debe incluir visualización de historial de pagos y proveer recordatorios automáticos de vencimiento. Debe permitir visualizar la  vinculación de miembros familiares bajo una misma cuenta, y visualizar el código QR para ingreso del socio y sus familiares.
-- ⚠️ explicar mejor el tema del pago de familiares, se entiende que es un grupo de personas para pago recurrentes?
 
+* Permitir a los socios gestionar su perfil, pagos, beneficios y renovaciones. Debe incluir visualización de historial de pagos y proveer recordatorios automáticos de vencimiento. También debe permitir visualizar la vinculación de miembros familiares bajo una misma cuenta, y mostrar el código QR para el ingreso del socio y sus familiares.
+* ⚠️ Explicar mejor el tema del pago de familiares. ¿Se entiende que es un grupo de personas para pagos recurrentes?
 
 ### Control de ingresos
-- Control de ingresos en portería tanto de socios como de invitados para mantener un registro seguro de entradas. Debe permitir a los socios generar invitaciones para terceros vinculadas a eventos,  generando un código QR único por cada invitación.
 
+* Control de ingresos en portería tanto de socios como de invitados para mantener un registro seguro de entradas. Debe permitir a los socios generar invitaciones para terceros vinculadas a eventos, generando un código QR único por cada invitación.
 
 ### Integración con sistema interno
-- Debe integrarse con el sistema contable y financiero del club.
-- ⚠️ Explicacion de tipo de integracion requerida por el sistema contable y financiero del club.
+
+* Debe integrarse con el sistema contable y financiero del club.
+* ⚠️ Explicación del tipo de integración requerida por el sistema contable y financiero del club.
 
 
 
